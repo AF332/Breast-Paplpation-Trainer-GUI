@@ -1,14 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 27 00:38:45 2023
-
-@author: arifm
-"""
-
-import serial
-import tkinter as tk
-from tkinter import ttk
-from tkinter import Tk, OptionMenu, StringVar, Label, Button
+# Importing all nessecary libraries
+import serial # To transfer data from arduino into python.
+import tkinter as tk # Used to create the GUI windows and canvas.
+from tkinter import ttk # Need to check if this library is actually used in the code.
+from tkinter import Tk, OptionMenu, StringVar, Label, Button # Tk used to create the GUI window, StringVar used for 
 from tkinter.ttk import Progressbar, Combobox, Style
 import threading
 import math
