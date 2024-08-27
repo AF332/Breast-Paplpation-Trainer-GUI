@@ -16,10 +16,10 @@ GUI Features and Functionalities:
 
 The interface features:
 
-Dynamic Visual Feedback: A canvas displays the placement and pressure exerted by sensors in the form of a circular grid. This visual representation helps users understand the distribution of force and adjust their techniques accordingly.
-Interactive Dropdown Menus: Users can select different palpation sequences, which are crucial for training under various scenarios. Each selection triggers specific sensor activations, simulating different palpation patterns.
-Progress Indicators: As users progress through their training sequences, a progress bar updates in real time. This feature not only tracks progress but also motivates learners by showing them how close they are to achieving their session goals.
-Pressure Indicators: Colour-coded feedback enhances understanding, with colours shifting from green to yellow to red based on the pressure applied. This immediate feedback helps in maintaining the correct pressure range during palpation.
+1) Dynamic Visual Feedback: A canvas displays the placement and pressure exerted by sensors in the form of a circular grid. This visual representation helps users understand the distribution of force and adjust their techniques accordingly.
+2) Interactive Dropdown Menus: Users can select different palpation sequences, which are crucial for training under various scenarios. Each selection triggers specific sensor activations, simulating different palpation patterns.
+3) Progress Indicators: As users progress through their training sequences, a progress bar updates in real time. This feature not only tracks progress but also motivates learners by showing them how close they are to achieving their session goals.
+4) Pressure Indicators: Colour-coded feedback enhances understanding, with colours shifting from green to yellow to red based on the pressure applied. This immediate feedback helps in maintaining the correct pressure range during palpation.
 
 Results and Demonstrations:
 
